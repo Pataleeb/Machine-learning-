@@ -1,5 +1,5 @@
-# Machine-learning-
-(1)	In this exercise, we explore the well-known zipcode dataset refers to the U.S. Postal Service ZIP code dataset. In this exercise, we only consider Y=5 and Y=6.!
+# Machine-learning
+We explore the well-known zipcode dataset refers to the U.S. Postal Service ZIP code dataset. In this exercise, we only consider Y=5 and Y=6.!
 Exploratory statistics of the dataset:
 
 The dimension of the dataset: ziptrain56 training dataset has 1220 rows and 257 columns.
